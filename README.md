@@ -1,2 +1,2 @@
-# Housing_vs_Ammentities_Housing_Price
-Location, location, location or could it be something else? Ammenities.  In the housing industry the top three factors affecting the price is said to be location, location, location.  In this anlaysis of housing prices in King County, Washington, house descriptions and proximity to schools, parks, landfills, transit stations, churches and Starbucks was tested for affect on housing prices.  The result was location prevailed.   
+# Housing_vs_Amentities_Housing_Price
+Location, location, location or could it be something else? Amenities.  In the housing industry the top three factors affecting the price is said to be location, location, location.  In this anlaysis of housing prices in King County, Washington, house descriptions and proximity to schools, parks, landfills, transit stations, churches and Starbucks was tested for affect on housing prices.  The result was location prevailed.   
